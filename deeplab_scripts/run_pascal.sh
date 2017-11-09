@@ -6,7 +6,7 @@ ROOT_DIR=
 CAFFE_DIR=../deeplab_caffe
 CAFFE_BIN=${CAFFE_DIR}/.build_release/tools/caffe.bin
 
-EXP=voc12
+EXP=../voc12
 
 if [ "${EXP}" = "voc12" ]; then
     NUM_LABELS=21
