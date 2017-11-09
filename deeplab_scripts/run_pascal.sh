@@ -11,7 +11,7 @@ EXP=voc12
 if [ "${EXP}" = "voc12" ]; then
     NUM_LABELS=21
     DATA_ROOT=/home/joseph/Dataset/voc_2012/VOCdevkit/VOC2012
-    #DATA_ROOT=${ROOT_DIR}/rmt/data/pascal/VOCdevkit/VOC2012
+    # DATA_ROOT=${ROOT_DIR}/rmt/data/pascal/VOCdevkit/VOC2012
 else
     NUM_LABELS=0
     echo "Wrong exp name"
