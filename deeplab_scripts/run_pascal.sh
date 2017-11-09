@@ -20,7 +20,7 @@ fi
 
 ## Specify which model to train
 ########### voc12 ################
-NET_ID=deelab_largeFOV
+NET_ID=deeplab_largeFOV
 
 
 ## Variables used for weakly or semi-supervisedly training
