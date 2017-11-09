@@ -37,7 +37,7 @@ NET_ID=deeplab_largeFOV
 
 #TRAIN_SET_WEAK_LEN=5000
 
-DEV_ID=0
+DEV_ID=1
 
 #####
 
